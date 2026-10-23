@@ -79,6 +79,6 @@ Para realizar la descarga directa de la imagen mediante la terminal, ejecute el 
 docker pull drateridg/mi-portafolio-web:latest
 docker run -d -p 8080:80 --name mi_web_profesional drateridg/portafolio-profesional:latest
 ```
-y puede verificar su funcionamiento con http://localhost:8080/ .
+y puede verificar su funcionamiento con **http://localhost:8080/** .
 ---
-Desarrollado por **Edwin David Guachi Cabrera** – *Estudiante de la Universidad de las Fuerzas Armadas ESPEs*.
+Desarrollado por **Edwin David Guachi Cabrera** – *Estudiante de la Universidad de las Fuerzas Armadas ESPE*.
